@@ -13,4 +13,5 @@ This is a system designed in Spring Boot/Data/Cloud used for microservice regist
  
  You should see the EUREKA Server Dashboard page like below:
  
- ![image](https://user-images.githubusercontent.com/100357322/157209469-f611b044-cdbc-446f-9eed-dfd96e058337.png)
+![image](https://user-images.githubusercontent.com/100357322/157353564-f2a67ea4-830c-4dd5-b09e-2c22c5a17ec8.png)
+
